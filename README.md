@@ -30,7 +30,7 @@
 
 ## 📫 How to Reach Me
 - LinkedIn: [linkedin.com/in/vindya10](https://www.linkedin.com/in/vindya-sree-kanchi-9169b728b/)  
-- Email: your.email@example.com  
+- Email: vindyasreekanchi@gmail.com
 - Portfolio: [vindya10.github.io](https://vindya10.github.io)
 
 ---
